@@ -10,7 +10,7 @@ require (
 	github.com/openshift/api v0.0.0-20180801171038-322a19404e37
 	github.com/operator-framework/operator-lib v0.4.1
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	k8s.io/api v0.20.2
 	k8s.io/apimachinery v0.20.2
 	k8s.io/client-go v0.20.2
